@@ -14,7 +14,7 @@ const App = () => {
           style={{width: 500, height: 900, opacity: 0.5}}
         />
 
-        <FloatingButton style={{bottom: 0}} />
+        <FloatingButton style={{bottom: 100}} />
       </View>
     </>
   );
